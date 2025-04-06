@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lamgadesirjana
-- 👀 I’m interested in ...learn and work with gi
+- 👀 I’m interested in ...learn and work with git
 - 🌱 I’m currently learning ...git and github
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
